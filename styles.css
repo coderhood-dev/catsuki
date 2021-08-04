@@ -170,12 +170,24 @@ footer {
   padding: 10rem;
 }
 
+.catalogue-title {
+  font-size: 4rem;
+  padding-bottom: 2rem;
+}
+
+.catalogue-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .card {
   border: #E5E7EB 2px solid;
   border-radius: 10px;
-  width: 200px;
-  height: 200px;
+  width: 25%;
+  height: 300px;
   overflow: hidden;
+  margin: 1rem;
 }
 
 .card img {
