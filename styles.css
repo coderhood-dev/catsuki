@@ -135,6 +135,10 @@ footer {
   font-size: 20px;
 }
 
+.button:hover {
+  cursor: pointer;
+}
+
 @keyframes shake {
   from {
     transform: translateX(-5px);
@@ -179,6 +183,7 @@ footer {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  padding-bottom: 5rem;
 }
 
 .card {
@@ -192,6 +197,7 @@ footer {
 
 .card img {
   object-fit: contain;
+  width: 100%;
 }
 
 .contact-container {
