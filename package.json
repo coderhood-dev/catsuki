@@ -1,0 +1,22 @@
+{
+  "name": "catsuki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderhood-dev/catsuki.git"
+  },
+  "author": "Coderhood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderhood-dev/catsuki/issues"
+  },
+  "homepage": "https://github.com/coderhood-dev/catsuki#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}
